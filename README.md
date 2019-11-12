@@ -5,7 +5,7 @@ Merging few rows to a single column is not directly available in excel currently
 
 1. `Merge Rows in Excel.mov` - video which explains how this feature works
 
-![Merge Rows Excel Demo](https://raw.githubusercontent.com/vishwarajanand/MergeRowsInExcel/master/Merge_Rows_in_Excel.mov "Merge Rows Excel Demo")
+[![Merge Rows Excel Demo](https://raw.githubusercontent.com/vishwarajanand/MergeRowsInExcel/master/MergeRowsExcelSnap.png)](https://raw.githubusercontent.com/vishwarajanand/MergeRowsInExcel/master/Merge_Rows_in_Excel.mov)
 
 2. `MergeRowsExcelSnap.png` - Snapshot to show how the sheet looks like.
 
